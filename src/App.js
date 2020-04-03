@@ -5,12 +5,16 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import './template_scss/pillar-1.scss';
 
 import HeaderPage from './components/HeaderPage.js'
+import CareerSummary from './components/CareerSummary.js'
 
 function App() {
   return (
       <article class="resume-wrapper text-center position-relative">
 	      <div class="resume-wrapper-inner mx-auto text-left bg-white shadow-lg">
           <HeaderPage></HeaderPage>
+        </div>
+        <div class="resume-body p-5">
+          <CareerSummary></CareerSummary>
         </div>
       </article>
   );
