@@ -9,6 +9,7 @@ import CareerSummary from './components/CareerSummary.js'
 import Experience from './components/Experience.js'
 import SkillsAndTools from './components/SkillAndTools.js'
 import Education from './components/Education.js'
+import Lenguages from './components/Lenguages.js'
 
 function App() {
   return (
@@ -24,6 +25,7 @@ function App() {
             <div class="col-lg-3">
             <SkillsAndTools></SkillsAndTools>
             <Education></Education>
+            <Lenguages></Lenguages>
 					  </div>
           </div>
         </div>
