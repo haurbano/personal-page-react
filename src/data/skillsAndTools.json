@@ -1,0 +1,44 @@
+{
+    "skills": [
+        {
+            "name": "Android",
+            "level": 0.98
+        },
+        {
+            "name": "Architecure",
+            "level": 0.80
+        },
+        {
+            "name": "Dependecy Injection",
+            "level": 0.96
+        },
+        {
+            "name": "Kotlin",
+            "level": 0.92
+        },
+        {
+            "name": "SOLID",
+            "level": 0.88
+        }
+    ],
+
+    "othersSkills": ["Gradle", "Code Review", "Git", "Unit Testing", "Databases"],
+    "education": {
+        "title": "",
+        "university": "Universidad del Cauca",
+        "year": "2011 - 2016"
+    },
+
+    "lenguage": [
+        {
+            "leng": "Spanish ",
+            "level": "Native"
+        },
+        {
+            "leng": "English",
+            "level": "Professional"
+        }
+    ],
+
+    "interests": ["Technology", "Video Games", "Soccer"]
+}

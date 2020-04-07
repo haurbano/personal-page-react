@@ -7,6 +7,7 @@ import './template_scss/pillar-1.scss';
 import HeaderPage from './components/HeaderPage.js'
 import CareerSummary from './components/CareerSummary.js'
 import Experience from './components/Experience.js'
+import SkillsAndTools from './components/SkillAndTools.js'
 
 function App() {
   return (
@@ -19,6 +20,9 @@ function App() {
 				    <div class="col-lg-9">
               <Experience></Experience>
             </div> 
+            <div class="col-lg-3">
+            <SkillsAndTools></SkillsAndTools>
+					  </div>
           </div>
         </div>
         </div>
