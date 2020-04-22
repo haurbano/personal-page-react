@@ -12,7 +12,7 @@ function HomeBanner() {
 					<div class="banner_content">
 						<div class="media">
 							<div class="d-flex">
-								<img class="img-fluid picture mx-auto" src={profileImage} alt=""></img>
+								<img class="img-fluid picture mx-auto hu-profile-img" src={profileImage} alt=""></img>
 							</div>
 							<div class="media-body">
 								<div class="personal_text">
