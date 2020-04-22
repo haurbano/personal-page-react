@@ -1,0 +1,9 @@
+.hu-over:hover {
+    background-image: -webkit-linear-gradient(0deg, #766dff 0%, #88f3ff 100%) !important;
+}
+
+.hu-profile-img {
+    max-height: 669px;
+    max-width: 669px;
+    border-radius: 12px;
+}
