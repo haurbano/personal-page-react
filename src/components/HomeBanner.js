@@ -1,6 +1,8 @@
 import React from 'react';
 
 import profileImage from '../images/profile.jpeg'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faTwitter, faLinkedin, faGithub, faHackerrank } from '@fortawesome/free-brands-svg-icons'
 
 function HomeBanner() {
     return (
@@ -25,9 +27,10 @@ function HomeBanner() {
 										<li><a href="#"><i class="lnr lnr-home"></i> Bogotá, Colombia</a></li>
 									</ul>
 									<ul class="list personal_social">
-                                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-										<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-										<li><a href="#"><i class="fa fa-linkedin"></i></a></li>
+										<li><a class="hu-over" href="https://twitter.com/ha_urbano"><FontAwesomeIcon icon={faTwitter}/></a></li>
+										<li><a class="hu-over" href="https://www.linkedin.com/in/haurbano"><FontAwesomeIcon icon={faLinkedin}/></a></li>
+										<li><a class="hu-over" href="https://github.com/haurbano"><FontAwesomeIcon icon={faGithub}/></a></li>
+										<li><a class="hu-over" href="https://www.hackerrank.com/haurbano_dev"><FontAwesomeIcon icon={faHackerrank}/></a></li>
 									</ul>
 								</div>
 							</div>

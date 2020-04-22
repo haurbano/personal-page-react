@@ -18,6 +18,7 @@ import './template_css/breadcrumb.css';
 //import './template_css/font-awesome.min.css';
 import './template_css/style.css';
 import './template_css/responsive.css';
+import './template_css/haur_custom.css';
 
 
 
