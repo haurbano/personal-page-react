@@ -23,37 +23,15 @@ import './template_css/haur_custom.css';
 
 
 // Components
-import HeaderPage from './components/HeaderPage.js'
-import HomeBanner from './components/HomeBanner.js'
-import CareerSummary from './components/CareerSummary.js'
-import Experience from './components/Experience.js'
-import SkillsAndTools from './components/SkillAndTools.js'
-import Education from './components/Education.js'
-import Lenguages from './components/Lenguages.js'
-import Interests from './components/Interests.js'
+import HeaderPage from './components/home/HeaderPage.js'
+import HomeBanner from './components/home/HomeBanner.js'
 
 
 function App() {
   return (
       <div class="">
-	      <div class="">
           <HeaderPage></HeaderPage>
           <HomeBanner></HomeBanner>
-          <div class="resume-body p-5">
-          <CareerSummary></CareerSummary>
-          <div class="row">
-				    <div class="col-lg-9">
-              <Experience></Experience>
-            </div> 
-            <div class="col-lg-3">
-            <SkillsAndTools></SkillsAndTools>
-            <Education></Education>
-            <Lenguages></Lenguages>
-            <Interests></Interests>
-					  </div>
-          </div>
-        </div>
-        </div>
       </div>
   );
 }

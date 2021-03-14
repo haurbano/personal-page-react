@@ -1,6 +1,6 @@
 import React from 'react';
 
-import profileImage from '../images/profile.jpeg'
+import profileImage from '../../images/profile.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faTwitter, faLinkedin, faGithub, faHackerrank } from '@fortawesome/free-brands-svg-icons'
 
@@ -18,7 +18,7 @@ function HomeBanner() {
 								<div class="personal_text">
 									<h6>Hello Everybody, i am</h6>
 									<h3>Hamilton Urbano</h3>
-									<h4>Sr. Android Developer</h4>
+									<h4>Mobile Tech Lead at Mercadolibre</h4>
 									<p>A lover for technology with passion for the well implemented software and architectures. I'm always looking for improve and be up to date about the latest technologies.</p>
 									<ul class="list basic_info">
 										<li><a href="#"><i class="lnr lnr-calendar-full"></i> 8 Septembre, 1993</a></li>
