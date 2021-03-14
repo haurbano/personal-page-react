@@ -42,7 +42,8 @@ function App() {
       <section class="home_banner_area">
         <div class="container box_1620">
           <Switch>
-              <Route exact path="/"> <Home/> </Route>
+            <Route exact path="/"> <Home/> </Route>
+              <Route exact path="/personal-page-react"> <Home/> </Route>
               <Route exact path="/background"> <Background/> </Route>
           </Switch>
         </div>
