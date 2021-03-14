@@ -1,5 +1,5 @@
 import React from 'react';
-import info from '../data/skills-basic-info.json'
+import info from '../../data/skills-basic-info.json'
 
 function Interests() {
     return(

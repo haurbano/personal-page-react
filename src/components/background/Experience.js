@@ -1,6 +1,6 @@
 import React from 'react';
 
-import experiences from '../data/experience.json'
+import experiences from '../../data/experience.json'
 
 class Experience extends React.Component {
 	
