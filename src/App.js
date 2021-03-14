@@ -27,7 +27,8 @@ import HeaderPage from './components/HeaderPage.js'
 import {
   BrowserRouter as Router,
   Switch,
-  Route
+  Route,
+  Redirect
 } from "react-router-dom";
 import Background from './components/background/Background';
 import Home from './components/home/Home';
@@ -42,8 +43,10 @@ function App() {
       <section class="home_banner_area">
         <div class="container box_1620">
           <Switch>
-            <Route exact path="/"> <Home/> </Route>
-              <Route exact path="/personal-page-react"> <Home/> </Route>
+              <Route exact path="/"> <Home/> </Route>
+              <Route exact path="/personal-page-react">
+                <Redirect to="/" /> 
+              </Route>
               <Route exact path="/background"> <Background/> </Route>
           </Switch>
         </div>
