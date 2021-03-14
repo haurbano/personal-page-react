@@ -23,16 +23,31 @@ import './template_css/haur_custom.css';
 
 
 // Components
-import HeaderPage from './components/home/HeaderPage.js'
-import HomeBanner from './components/home/HomeBanner.js'
+import HeaderPage from './components/HeaderPage.js'
+import {
+  BrowserRouter as Router,
+  Switch,
+  Route
+} from "react-router-dom";
+import Background from './components/background/Background';
+import Home from './components/home/Home';
 
 
 function App() {
   return (
-      <div class="">
+    <Router>
+      <div>
           <HeaderPage></HeaderPage>
-          <HomeBanner></HomeBanner>
       </div>
+      <section class="home_banner_area">
+        <div class="container box_1620">
+          <Switch>
+              <Route exact path="/"> <Home/> </Route>
+              <Route exact path="/background"> <Background/> </Route>
+          </Switch>
+        </div>
+      </section>
+    </Router> 
   );
 }
 

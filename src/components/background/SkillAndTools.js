@@ -1,6 +1,6 @@
 import React from 'react';
 
-import skillsAndTools from '../data/skills-basic-info.json'
+import skillsAndTools from '../../data/skills-basic-info.json'
 
 class SkillsAndTools extends React.Component {
 
