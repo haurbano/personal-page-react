@@ -44,9 +44,6 @@ function App() {
         <div class="container box_1620">
           <Switch>
               <Route exact path="/home"> <Home/> </Route>
-              <Route exact path="/personal-page-react">
-                <Redirect to="/home" /> 
-              </Route>
               <Route exact path="/">
                 <Redirect to="/home" /> 
               </Route>
