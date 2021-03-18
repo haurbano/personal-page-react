@@ -10,13 +10,13 @@
             "link": "https://play.google.com/store/apps/details?id=com.rccl.royalcaribbean&hl"
         },
         "date": "October 2019 - Present",
-        "resume": "My role as an Android Tech Lead is coordinate planning and delivery new features. Some of my responsibilities are:",
+        "resume": "My role as Android Tech Lead is to coordinate, plan and deliver new features. Some of my responsibilities are:",
         "resposabilities": [
-            "Technical design of new features and review technical designs from others, always looking for scalability and sustainability inside the project. Also, expose these technical designs to the consumers and negotiate times for its implementation.",
+            "Technical design of new features and review technical designs from others, always looking for scalability and sustainability inside the project. Also, share these technical designs to the consumers and negotiate times for its implementation.",
             "Keep the quality of the project using code-review, unit testing, and any kind of tool that could help to keep and improve the quality of the project",
-            "Planning and estimate epics, tasks and features in order to complete successfully every sprint.",
-            "Training, mentoring and coaching the developers to keep the whole team in a motivated environment.",
-            "Provide everything to the developers needs to complete their task in every sprint."
+            "Planning and estimate epics, tasks and features in order to complete them successfully every sprint.",
+            "Training, mentoring, and coaching the developers to maintain a motivated environment among  the team.",
+            "Assist the team to complete every sprint on time."
         ],
         "technologies": [
             "Android",
@@ -41,7 +41,7 @@
         "resume": "",
         "resposabilities": [
             "Thech design for small features",
-            "Developr new features",
+            "Develop new features",
             "Unit Testing",
             "Code Review"
         ],
@@ -68,7 +68,7 @@
             "link": "https://play.google.com/store/apps/details?id=com.superama15.screens"
         },
         "date": "January 2018 - August 2018",
-        "resume": "As an Android Developer I was mainly in charge of the design, implement new features, bugs fixing and coordinate the APIs with the backend team",
+        "resume": "As an Android Developer I was mainly in charge of the design, implementation of new features, bugs fixing and APIs coordination with the backend team",
         "resposabilities": [],
         "technologies": [
             "Android",
@@ -91,7 +91,7 @@
             "link": ""
         },
         "date": "January 2017 - December 2017",
-        "resume": "In CodeScrum I was in charge of a full projects, from take the requirements to deploy the new functionalities",
+        "resume": "In CodeScrum I was in charge of full projects development, from taking the requirements to deploying the new functionalities",
         "resposabilities": [],
         "technologies": [
             "Ruby on Rails",
@@ -115,7 +115,7 @@
             "link": ""
         },
         "date": "May 2015 - Julay 2012",
-        "resume": "As an Technical advisor I was in charge of help start-ups developing their technology product. I had the oportunity of learn frmo several technologies in the backend, frontend and even mobile side.",
+        "resume": "As Technical advisor I was in charge of helping start-ups developing their technological products. I had the oportunity to learn several technologies from the backend, frontend and even mobile side.",
         "resposabilities": [],
         "technologies": [
             "Android",
