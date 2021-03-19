@@ -17,7 +17,7 @@ function Home() {
 							<h6>Hello Everybody, i am</h6>
 							<h3>Hamilton Urbano</h3>
 							<p>Mobile Tech Lead at Mercadolibre</p>
-							<p>A lover of technology with a passion for well-implemented software and architectures. I'm always looking for improvements and being up to date about the latest technologies</p>
+							<p>Technology lover with a passion for well-implemented software and architectures. I'm always looking for improvements and being up to date about the latest technologies.</p>
 							<ul class="list basic_info">
 								<li><a href="#"><i class="lnr lnr-calendar-full"></i> 8 Septembre, 1993</a></li>
 								<li><a href="#"><i class="lnr lnr-phone-handset"></i> (+57) 3108402718</a></li>
