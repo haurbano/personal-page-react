@@ -11,8 +11,8 @@ function HeaderPage() {
             <div class="container box_1620">
                 <div class="collapse navbar-collapse offset" id="navbarSupportedContent">
                     <ul class="nav navbar-nav menu_nav ml-auto">
-                        <li class="nav-item active"><Link class="nav-link" to="/home">Home</Link></li> 
-                        <li class="nav-item"><Link class="nav-link" to="/background">Background</Link></li>
+                        {/* <li class="nav-item active"><Link class="nav-link" to="/home">Home</Link></li> 
+                        <li class="nav-item"><Link class="nav-link" to="/background">Background</Link></li> */}
                     </ul> 
                 </div> 
             </div>

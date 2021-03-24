@@ -2,7 +2,7 @@ import React from 'react';
 
 import profileImage from '../../images/profile.jpeg'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faTwitter, faLinkedin, faGithub, faHackerrank } from '@fortawesome/free-brands-svg-icons'
+import { faTwitter, faLinkedin, faGithub, faHackerrank, faMedium } from '@fortawesome/free-brands-svg-icons'
 
 function Home() {
     return (
@@ -29,6 +29,7 @@ function Home() {
 								<li><a class="hu-over" href="https://www.linkedin.com/in/haurbano"><FontAwesomeIcon icon={faLinkedin}/></a></li>
 								<li><a class="hu-over" href="https://github.com/haurbano"><FontAwesomeIcon icon={faGithub}/></a></li>
 								<li><a class="hu-over" href="https://www.hackerrank.com/haurbano_dev"><FontAwesomeIcon icon={faHackerrank}/></a></li>
+								<li><a class="hu-over" href="https://medium.com/@hamiltonurbano"><FontAwesomeIcon icon={faMedium}/></a></li>
 							</ul>
 						</div>
 					</div>
